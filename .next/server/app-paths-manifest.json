@@ -1,11 +1,12 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
+  "/admin/page": "app/admin/page.js",
   "/page": "app/page.js",
   "/display/page": "app/display/page.js",
-  "/admin/page": "app/admin/page.js",
-  "/admin/events/page": "app/admin/events/page.js",
+  "/school/[id]/page": "app/school/[id]/page.js",
   "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/admin/stats/page": "app/admin/stats/page.js",
+  "/admin/events/page": "app/admin/events/page.js",
   "/admin/schools/page": "app/admin/schools/page.js",
-  "/admin/announcements/page": "app/admin/announcements/page.js",
-  "/admin/stats/page": "app/admin/stats/page.js"
+  "/admin/announcements/page": "app/admin/announcements/page.js"
 }
